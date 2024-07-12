@@ -6,7 +6,7 @@ This is  a fruit juice application
 -loam soil
 -water
 
-'''
+```
 git clone
 
-'''
+```
